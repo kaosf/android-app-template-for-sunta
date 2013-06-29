@@ -1,4 +1,4 @@
-package net.kaosfield.app;
+package jp.sunta.app;
 
 import android.os.Bundle;
 import android.app.Activity;
